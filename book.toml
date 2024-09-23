@@ -1,0 +1,6 @@
+[book]
+authors = ["asiryk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tech by Example"
